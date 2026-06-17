@@ -1,6 +1,6 @@
 # z-tenant-flight
 
-Duffel flight booking showcase for Trinity z-namespace tenants — v0.3.0.
+Duffel flight booking showcase for Trinity z-namespace tenants — v0.4.1.
 
 A Rust WASM contract that runs inside the Trinity TEE (Trusted Execution Environment) and calls the [Duffel](https://duffel.com) API synchronously via `host:interfaces/http`.
 
